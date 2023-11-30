@@ -1,0 +1,1 @@
+# Development-of-an-automated-system-for-identifying-plant-diseases-based-on-leaf-images
